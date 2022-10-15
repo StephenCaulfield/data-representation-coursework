@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+    <Technicalbook>
+        <book isbn = "1">
+            <title>Big Book O' Computers</title>
+            <author>Andrew Beatty</author>
+        </book>
+        <book isbn = "2">
+            <title>A Beginners Guide to Turning on a Computer</title>
+            <author>Maurice Moss</author>
+        </book>
+    </Technicalbook>
+    <CookeryBook>
+        <book isbn = "3">
+            <title>How to make your own Kinder Chocolate</title>
+            <author>Stephen Caulfield</author>
+        </book>
+        <book isbn = "4">
+            <title>The Steaks are High</title>
+            <author>Snoop Dogg</author>
+        </book>
+    </CookeryBook>
+</library>
